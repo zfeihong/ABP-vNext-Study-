@@ -1,0 +1,14 @@
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.DbMigrationSqlServer.csprojAssemblyReference.cache
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.DbMigrationSqlServer.AssemblyInfoInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.DbMigrationSqlServer.AssemblyInfo.cs
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.DbMigrationSqlServer.csproj.CoreCompileInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\bin\Debug\netstandard2.0\Gm.EfCore.DbMigrationSqlServer.deps.json
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\bin\Debug\netstandard2.0\Gm.EfCore.DbMigrationSqlServer.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\bin\Debug\netstandard2.0\Gm.EfCore.DbMigrationSqlServer.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\bin\Debug\netstandard2.0\Gm.Domain.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\bin\Debug\netstandard2.0\Gm.EfCore.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\bin\Debug\netstandard2.0\Gm.EfCore.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\bin\Debug\netstandard2.0\Gm.Domain.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.DbMigrationSqlServer.csproj.CopyComplete
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.DbMigrationSqlServer.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMigrationSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.DbMigrationSqlServer.pdb

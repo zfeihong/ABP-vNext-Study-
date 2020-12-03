@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore.MySQL" Version="3.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.8" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Gm.Domain\Gm.Domain.csproj" />
+    <ProjectReference Include="..\Gm.EfCore\Gm.EfCore.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Migrator\" />
+  </ItemGroup>
+</Project>

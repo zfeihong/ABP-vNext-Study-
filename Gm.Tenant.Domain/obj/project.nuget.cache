@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SF+nwAChXDvLq+kIVQ1OEr1OS2bv6NJ9F4LY5BbHs7uyjIGbburEn8/NvQGnESw7B1n7EE3ktPpJajymVO/F0w==",
+  "success": true,
+  "projectFilePath": "D:\\jackyfei\\abp vnext教程\\gm\\Gm.Tenant.Domain\\Gm.Tenant.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\41696\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\41696\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

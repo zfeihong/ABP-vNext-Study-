@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Ddd.Application" Version="3.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gm.Account.Contracts\Gm.Account.Application.Contracts.csproj" />
+    <ProjectReference Include="..\Gm.Tenant.Contracts\Gm.Tenant.Application.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

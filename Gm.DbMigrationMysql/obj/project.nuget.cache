@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+yG5Xt60kROFEGvdX2qhIJZOd6hF9OxtrJX53xWS2yXbnmyd8dVDpZ9gcaaWKLWPVRpSLjTspxKf8sUanRNmqg==",
+  "success": true,
+  "projectFilePath": "D:\\jackyfei\\abp vnext教程\\gm\\Gm.DbMigrationMysql\\Gm.DbMigrationMysql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\41696\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\41696\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\bin\Debug\netstandard2.0\Gm.EfCore.DbMirgrationMysql.deps.json
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\bin\Debug\netstandard2.0\Gm.EfCore.DbMirgrationMysql.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\bin\Debug\netstandard2.0\Gm.EfCore.DbMirgrationMysql.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\bin\Debug\netstandard2.0\Gm.Domain.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\bin\Debug\netstandard2.0\Gm.EfCore.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\bin\Debug\netstandard2.0\Gm.Domain.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\bin\Debug\netstandard2.0\Gm.EfCore.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\obj\Debug\netstandard2.0\Gm.EfCore.DbMirgrationMysql.csprojAssemblyReference.cache
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\obj\Debug\netstandard2.0\Gm.EfCore.DbMirgrationMysql.AssemblyInfoInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\obj\Debug\netstandard2.0\Gm.EfCore.DbMirgrationMysql.AssemblyInfo.cs
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\obj\Debug\netstandard2.0\Gm.EfCore.DbMirgrationMysql.csproj.CoreCompileInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\obj\Debug\netstandard2.0\Gm.EfCore.DbMirgrationMysql.csproj.CopyComplete
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\obj\Debug\netstandard2.0\Gm.EfCore.DbMirgrationMysql.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.DbMirgrationMysql\obj\Debug\netstandard2.0\Gm.EfCore.DbMirgrationMysql.pdb

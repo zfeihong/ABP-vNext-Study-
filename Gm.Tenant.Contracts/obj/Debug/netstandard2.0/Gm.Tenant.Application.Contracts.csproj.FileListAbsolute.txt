@@ -1,0 +1,12 @@
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\bin\Debug\netstandard2.0\Gm.Tenant.Application.Contracts.deps.json
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\bin\Debug\netstandard2.0\Gm.Tenant.Application.Contracts.dll
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\bin\Debug\netstandard2.0\Gm.Tenant.Application.Contracts.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\bin\Debug\netstandard2.0\Gm.Account.Application.Contracts.dll
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\bin\Debug\netstandard2.0\Gm.Account.Application.Contracts.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\obj\Debug\netstandard2.0\Gm.Tenant.Application.Contracts.csprojAssemblyReference.cache
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\obj\Debug\netstandard2.0\Gm.Tenant.Application.Contracts.AssemblyInfoInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\obj\Debug\netstandard2.0\Gm.Tenant.Application.Contracts.AssemblyInfo.cs
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\obj\Debug\netstandard2.0\Gm.Tenant.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\obj\Debug\netstandard2.0\Gm.Tenant.Application.Contracts.csproj.CopyComplete
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\obj\Debug\netstandard2.0\Gm.Tenant.Application.Contracts.dll
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Contracts\obj\Debug\netstandard2.0\Gm.Tenant.Application.Contracts.pdb

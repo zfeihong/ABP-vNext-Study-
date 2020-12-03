@@ -1,0 +1,8 @@
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Domain\bin\Debug\netstandard2.0\Gm.Tenant.Domain.deps.json
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Domain\bin\Debug\netstandard2.0\Gm.Tenant.Domain.dll
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Domain\bin\Debug\netstandard2.0\Gm.Tenant.Domain.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Domain\obj\Debug\netstandard2.0\Gm.Tenant.Domain.AssemblyInfoInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Domain\obj\Debug\netstandard2.0\Gm.Tenant.Domain.AssemblyInfo.cs
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Domain\obj\Debug\netstandard2.0\Gm.Tenant.Domain.csproj.CoreCompileInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Domain\obj\Debug\netstandard2.0\Gm.Tenant.Domain.dll
+D:\jackyfei\abp vnext教程\gm\Gm.Tenant.Domain\obj\Debug\netstandard2.0\Gm.Tenant.Domain.pdb

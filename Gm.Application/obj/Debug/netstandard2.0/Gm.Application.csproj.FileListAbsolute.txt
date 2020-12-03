@@ -1,0 +1,14 @@
+D:\jackyfei\abp vnext教程\gm\Gm.Application\bin\Debug\netstandard2.0\Gm.Application.deps.json
+D:\jackyfei\abp vnext教程\gm\Gm.Application\bin\Debug\netstandard2.0\Gm.Application.dll
+D:\jackyfei\abp vnext教程\gm\Gm.Application\bin\Debug\netstandard2.0\Gm.Application.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.Application\bin\Debug\netstandard2.0\Gm.Application.Contracts.dll
+D:\jackyfei\abp vnext教程\gm\Gm.Application\bin\Debug\netstandard2.0\Gm.Application.Contracts.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.Application\obj\Debug\netstandard2.0\Gm.Application.csprojAssemblyReference.cache
+D:\jackyfei\abp vnext教程\gm\Gm.Application\obj\Debug\netstandard2.0\Gm.Application.AssemblyInfoInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.Application\obj\Debug\netstandard2.0\Gm.Application.AssemblyInfo.cs
+D:\jackyfei\abp vnext教程\gm\Gm.Application\obj\Debug\netstandard2.0\Gm.Application.csproj.CoreCompileInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.Application\obj\Debug\netstandard2.0\Gm.Application.csproj.CopyComplete
+D:\jackyfei\abp vnext教程\gm\Gm.Application\obj\Debug\netstandard2.0\Gm.Application.dll
+D:\jackyfei\abp vnext教程\gm\Gm.Application\obj\Debug\netstandard2.0\Gm.Application.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.Application\bin\Debug\netstandard2.0\Gm.Account.Application.Contracts.dll
+D:\jackyfei\abp vnext教程\gm\Gm.Application\bin\Debug\netstandard2.0\Gm.Account.Application.Contracts.pdb

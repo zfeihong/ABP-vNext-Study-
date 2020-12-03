@@ -1,0 +1,14 @@
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\bin\Debug\netstandard2.0\Gm.EfCore.MigrationsForSqlServer.deps.json
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\bin\Debug\netstandard2.0\Gm.EfCore.MigrationsForSqlServer.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\bin\Debug\netstandard2.0\Gm.EfCore.MigrationsForSqlServer.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.MigrationsForSqlServer.AssemblyInfoInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.MigrationsForSqlServer.AssemblyInfo.cs
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.MigrationsForSqlServer.csproj.CoreCompileInputs.cache
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.MigrationsForSqlServer.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.MigrationsForSqlServer.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\bin\Debug\netstandard2.0\Gm.Domain.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\bin\Debug\netstandard2.0\Gm.EfCore.dll
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\bin\Debug\netstandard2.0\Gm.EfCore.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\bin\Debug\netstandard2.0\Gm.Domain.pdb
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.MigrationsForSqlServer.csprojAssemblyReference.cache
+D:\jackyfei\abp vnext教程\gm\Gm.EfCore.MigrationsForSqlServer\obj\Debug\netstandard2.0\Gm.EfCore.MigrationsForSqlServer.csproj.CopyComplete
